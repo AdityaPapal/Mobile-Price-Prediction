@@ -1,7 +1,11 @@
 # Mobile-Price-Prediction
 
+The main objective of building a mobile price prediction classification
+model using Python is to predict the price range of mobile phones based
+on their features. This can help manufacturers, retailers, and consumers
 
 ## Documentation
+
 
 [High level Design](https://drive.google.com/file/d/1Ofr0QKgP0yZCBdRHRa3uqCQBiH8dwT0w/view?usp=drive_link)
 
